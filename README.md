@@ -9,7 +9,7 @@ This repository contains all the projects Shao-Peng(Paul) has worked on.
 
 [Keyboard Reader in Verilog](https://github.com/spypaul/Keyboard-Reader.git)
 
-VGA Controller in Verilog
+[VGA Controller in Verilog](https://github.com/spypaul/VGA-Controller.git)
 
 Pauliga - Retro Video Games in Verilog 
 
