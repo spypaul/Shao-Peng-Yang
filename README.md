@@ -11,7 +11,7 @@ This repository contains all the projects Shao-Peng(Paul) has worked on.
 
 [VGA Controller in Verilog](https://github.com/spypaul/VGA-Controller.git)
 
-Pauliga - Retro Video Games in Verilog 
+Paulaga - Retro Video Games in Verilog 
 
 Speech Recognition in MATLAB
 
