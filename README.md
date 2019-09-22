@@ -5,7 +5,7 @@ This repository contains all the projects Shao-Peng(Paul) has worked on.
 
 [Square Wave Generator with Assembly](https://github.com/spypaul/Square-Wave-Generator.git) 
 
-Simple Stopwatch in Assembly 
+[Simple Stopwatch in Assembly](https://github.com/spypaul/Simple-Stopwatch.git) 
 
 Keyboard Reader in Verilog
 
