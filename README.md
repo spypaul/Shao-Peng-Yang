@@ -13,6 +13,10 @@ VGA Controller in Verilog
 
 Pauliga - Retro Video Games in Verilog 
 
+Speech Recognition in MATLAB
+
+Braille Cell Display PCB 
+
 IoT Led System 
 
 ## Upcoming
