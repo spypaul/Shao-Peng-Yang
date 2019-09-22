@@ -1,9 +1,9 @@
 # Shao-Peng-Yang-s-Projects-
 This repository contains all the projects Shao-Peng(Paul) has worked on. 
 
-## Complete:
+## Complete
 
-Square Wave Generator with Assembly 
+[Square Wave Generator with Assembly](https://github.com/spypaul/Square-Wave-Generator.git) 
 
 Simple Stopwatch in Assembly 
 
@@ -15,7 +15,7 @@ Pauliga - Retro Video Games in Verilog
 
 IoT Led System 
 
-## Upcoming:
+## Upcoming
 
 AES system in Verilog 
 
