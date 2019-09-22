@@ -1,7 +1,7 @@
 # Shao-Peng-Yang-s-Projects-
 This repository contains all the projects Shao-Peng(Paul) has worked on. 
 
-Complete:
+## Complete:
 
 Square Wave Generator with Assembly 
 
@@ -15,7 +15,7 @@ Pauliga - Retro Video Games in Verilog
 
 IoT Led System 
 
-Upcoming:
+## Upcoming:
 
 AES system in Verilog 
 
