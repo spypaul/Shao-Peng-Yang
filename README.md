@@ -17,7 +17,7 @@ This repository contains all the projects Shao-Peng(Paul) has worked on.
 
 [Braille Cell Display PCB](https://github.com/spypaul/Braille-Cell-Display-PCB.git) 
 
-IoT Led System 
+[IoT Led System](https://github.com/spypaul/IoT-Led-System.git) 
 
 ## Upcoming
 
