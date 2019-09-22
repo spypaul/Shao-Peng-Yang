@@ -7,7 +7,7 @@ This repository contains all the projects Shao-Peng(Paul) has worked on.
 
 [Simple Stopwatch in Assembly](https://github.com/spypaul/Simple-Stopwatch.git) 
 
-Keyboard Reader in Verilog
+[Keyboard Reader in Verilog](https://github.com/spypaul/Keyboard-Reader.git)
 
 VGA Controller in Verilog
 
