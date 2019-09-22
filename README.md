@@ -15,7 +15,7 @@ This repository contains all the projects Shao-Peng(Paul) has worked on.
 
 [Speech Recognition in MATLAB](https://github.com/spypaul/Speech-Recognition.git)
 
-Braille Cell Display PCB 
+[Braille Cell Display PCB](https://github.com/spypaul/Braille-Cell-Display-PCB.git) 
 
 IoT Led System 
 
