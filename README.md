@@ -13,7 +13,7 @@ This repository contains all the projects Shao-Peng(Paul) has worked on.
 
 [Paulaga - Retro Video Games in Verilog](https://github.com/spypaul/Paulaga-Retro-Video-Game.git) 
 
-Speech Recognition in MATLAB
+[Speech Recognition in MATLAB](https://github.com/spypaul/Speech-Recognition.git)
 
 Braille Cell Display PCB 
 
