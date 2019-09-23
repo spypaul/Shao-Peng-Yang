@@ -99,4 +99,4 @@ Here is a Brief Description of the projects:
 * Created a UART interface in Verilog on the Nexys A7 to drive the Bluetooth modules
 * The picture shows every components of the project
 
-![IoT System](https://github.com/spypaul/Shao-Peng-Yang/blob/master/Picture9.png?raw=true)
+![IoT System](https://github.com/spypaul/Shao-Peng-Yang/blob/master/Picture9.jpg?raw=true)
