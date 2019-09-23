@@ -29,4 +29,10 @@ AES system in Verilog
 RISC in Verilog 
 
 # Projects 
-## 
+Here is a Brief Description of the projects.
+## Decade Counter
+* Use the D flip flops, Nand Gates, and BCD to 7-segment decoder
+* The picture at the bottom are the schematic for the circuit and the circuit built
+* The Project was built in 20 - 30 minutes 
+
+
