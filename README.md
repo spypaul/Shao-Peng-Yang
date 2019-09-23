@@ -1,4 +1,4 @@
-# Shao-Peng-Yang-s-Projects-
+# Shao-Peng-Yang
 
 Shao-Peng Yang is a junior student in Electrical Engineering with interest in Embedded System, Internet of Things , Wireless Communication System, FPGA and SoC design, Neuromorphic Computing, and Hardware Security. Fluent in Chinese. Good at working with people with different professional backgrounds. Passionate about learning new knowledge. Willing to face and solve any challenge and obstacle.
 
@@ -29,3 +29,4 @@ AES system in Verilog
 RISC in Verilog 
 
 # Projects 
+## 
