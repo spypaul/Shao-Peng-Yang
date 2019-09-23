@@ -4,6 +4,7 @@ Shao-Peng Yang is a junior student in Electrical Engineering with interest in Em
 
 Check out his [Portfolio](https://github.com/spypaul/Shao-Peng-Yang-s-Projects-/blob/master/Shao-Peng%20Yang's%20Portfolio.pdf)
 
+# Projects and Activities
 ## Complete
 
 The following links will direct you to the repositories of the projects
@@ -30,7 +31,6 @@ AES system in Verilog
 
 RISC in Verilog 
 
-# Projects and Activities
 Here is a Brief Description of the projects.
 ## Decade Counter
 * Use the D flip flops, Nand Gates, and BCD to 7-segment decoder
