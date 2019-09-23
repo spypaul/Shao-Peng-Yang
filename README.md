@@ -31,7 +31,7 @@ AES system in Verilog
 
 RISC in Verilog 
 
-**Here is a Brief Description of the projects:
+**Here is a Brief Description of the projects:**
 
 ## Decade Counter
 * Use the D flip flops, Nand Gates, and BCD to 7-segment decoder
