@@ -3,8 +3,7 @@
 Shao-Peng Yang is a junior student in Electrical Engineering with interest in Embedded System, Internet of Things , Wireless Communication System, FPGA and SoC design, Neuromorphic Computing, and Hardware Security. Fluent in Chinese. Good at working with people with different professional backgrounds. Passionate about learning new knowledge. Willing to face and solve any challenge and obstacle.
 
 Check out his [Portfolio](https://github.com/spypaul/Shao-Peng-Yang-s-Projects-/blob/master/Shao-Peng%20Yang's%20Portfolio.pdf)
-
-# Projects and Activities
+# Repositories for Projects
 ## Complete
 
 The following links will direct you to the repositories of the projects
@@ -31,7 +30,9 @@ AES system in Verilog
 
 RISC in Verilog 
 
-# Here is a Brief Description of the projects:
+# Projects and Activities
+
+Here is a Brief Description of the projects:
 
 ## Decade Counter
 * Use the D flip flops, Nand Gates, and BCD to 7-segment decoder
