@@ -86,13 +86,13 @@ Here is a Brief Description of the projects:
 * Use mini motor and PCBs to create the display
 * The pictures are the PCB layouts and the inside circuit of the Display
 
-![PCB](https://github.com/spypaul/Shao-Peng-Yang/blob/master/Picture5.png?raw=true)
+![PCB](https://github.com/spypaul/Shao-Peng-Yang/blob/master/Picture5.jpg?raw=true)
 
 ![PCB Layout](https://github.com/spypaul/Shao-Peng-Yang/blob/master/Picture8.png?raw=true)
 
 ![PCB Layout2](https://github.com/spypaul/Shao-Peng-Yang/blob/master/Picture6.png?raw=true)
 
-![Braille Cell Circuit](https://github.com/spypaul/Shao-Peng-Yang/blob/master/Picture7.png?raw=true)
+![Braille Cell Circuit](https://github.com/spypaul/Shao-Peng-Yang/blob/master/Picture7.jpg?raw=true)
 
 ## [IoT Led System](https://github.com/spypaul/IoT-Led-System.git) 
 * There are three main parts of the system: the communication between Arduino and FPGA, LED control, and wifi web server
