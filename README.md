@@ -8,7 +8,7 @@ Check out his [Portfolio](https://github.com/spypaul/Shao-Peng-Yang/blob/master/
 
 The following links will direct you to the repositories of the projects
 
-[Square Wave Generator with Assembly](https://github.com/spypaul/Square-Wave-Generator.git) 
+[Square Wave Generator in Assembly](https://github.com/spypaul/Square-Wave-Generator.git) 
 
 [Simple Stopwatch in Assembly](https://github.com/spypaul/Simple-Stopwatch.git) 
 
