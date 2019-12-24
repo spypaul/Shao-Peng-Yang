@@ -24,6 +24,12 @@ The following links will direct you to the repositories of the projects
 
 [IoT Led System](https://github.com/spypaul/IoT-Led-System.git) 
 
+[Real Time Programming in C](https://github.com/spypaul/Real-Time-Programming-C-Project) 
+
+[Basic Alarm System in C](https://github.com/spypaul/Basic-Alarm-System-in-C) 
+
+[Secure System in C](https://github.com/spypaul/Secure-System-in-C) 
+
 ## Upcoming
 
 AES system in Verilog 
