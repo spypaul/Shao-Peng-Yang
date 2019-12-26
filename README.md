@@ -113,6 +113,16 @@ Here is a Brief Description of the projects:
 * The timming and the CPU load are the main focus of the project
 
 ## [Basic Alarm System in C](https://github.com/spypaul/Basic-Alarm-System-in-C) 
+* Focus on creating cooperative kernel and the usage of interrupt for PIT(programmable interval timer), DAC(Digital to Analog       
+  converter), keypad, and LCD
+* The period of the time slice is 10ms
+* The PIT handler is used to send the sine wave samples to the DAC
 
 ## [Secure System in C](https://github.com/spypaul/Secure-System-in-C) 
-
+* Use the k65 tower board to create a secure system that integrated different sensor inputs and output 
+  devices such as LCD display and LEDs
+* This system consists of real-time programming and the application of the co-operative kernel by using the function,   
+  SystickWaitEvent(), to create a task scheduler
+* When designing the program, the CPU load is the main concern for the system. Unnecessary action from the code will result 
+  in wasting CPU load which is avoided by the designer
+* For more details, pleases check the repository
