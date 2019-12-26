@@ -108,6 +108,9 @@ Here is a Brief Description of the projects:
 ![IoT System](https://github.com/spypaul/Shao-Peng-Yang/blob/master/Picture9.jpg?raw=true)
 
 ## [Real Time Programming in C](https://github.com/spypaul/Real-Time-Programming-C-Project) 
+* Three methods of triggering and respond: 
+  Software Trigger & Software Response, Hardware Trigger & Software Response, and Hardware Trigger & Hardware Response.
+* The timming and the CPU load are the main focus of the project
 
 ## [Basic Alarm System in C](https://github.com/spypaul/Basic-Alarm-System-in-C) 
 
