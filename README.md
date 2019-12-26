@@ -106,3 +106,10 @@ Here is a Brief Description of the projects:
 * The picture shows every components of the project
 
 ![IoT System](https://github.com/spypaul/Shao-Peng-Yang/blob/master/Picture9.jpg?raw=true)
+
+## [Real Time Programming in C](https://github.com/spypaul/Real-Time-Programming-C-Project) 
+
+## [Basic Alarm System in C](https://github.com/spypaul/Basic-Alarm-System-in-C) 
+
+## [Secure System in C](https://github.com/spypaul/Secure-System-in-C) 
+
